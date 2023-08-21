@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nilesh Hupare</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![github-header-image](https://github.com/NileshsGithub/NileshsGithub/assets/124909226/2151c1c9-ea9b-4cef-a34b-3c79d92f7e9b)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshsgithub&label=Profile%20views&color=0e75b6&style=flat" alt="nileshsgithub" /> </p>
 
